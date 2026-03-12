@@ -1,12 +1,12 @@
 # mintchip_set
 
 
-<img width="277" height="386" class="center" alt="Screenshot 2026-03-12 at 15 47 24" src="https://github.com/user-attachments/assets/ae30fd08-a165-4aff-b834-f1e3661eb8e5" />.center {
+<img width="277" height="386" class="center".center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
+} alt="Screenshot 2026-03-12 at 15 47 24" src="https://github.com/user-attachments/assets/ae30fd08-a165-4aff-b834-f1e3661eb8e5" />
 
 
 READ
