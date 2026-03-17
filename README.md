@@ -1,31 +1,44 @@
-# mintchip_set
+# ttyverse by greydoubt (100% original not stolen)
+
+<img width="419" height="168" alt="Screenshot 2026-03-17 at 14 14 37" src="https://github.com/user-attachments/assets/018e0968-02cf-4d24-aa5b-42d12728abc8" />
 
 
-<img width="277" height="386" class="center" alt="Screenshot 2026-03-12 at 15 47 24" src="https://github.com/user-attachments/assets/ae30fd08-a165-4aff-b834-f1e3661eb8e5" />
 
 
-READ
-<img width="1508" height="284" alt="Screenshot 2026-03-12 at 15 43 06" src="https://github.com/user-attachments/assets/3c007c15-10ad-4fe2-9eda-207520d9d68c" />
+    tidyr – help transform data specifically into tidy data, a table where each row is a single observation. The value of each observation is given in a column of the table. Variables describing the observation are included as additional columns.
+    
+    ggplot2 – for data visualization
+    
+    dplyr – for wrangling and transforming data
+    
+    readr – help read in common delimited, text files with data
+    
+    purrr – a functional programming toolkit
+    
+    tibble – a modern implementation of the built-in data frame data structure
+    
+    stringr – helps to manipulate string data types
+    
+    forcats – helps to manipulate category data types
 
+<img width="455" height="181" alt="Screenshot 2026-03-17 at 13 17 09" src="https://github.com/user-attachments/assets/1bcb71ae-1f2b-4eed-9ff4-4fb9ca6e954c" />
 
-USE
-<img width="1735" height="679" alt="Screenshot 2026-03-12 at 15 43 34" src="https://github.com/user-attachments/assets/70f07f40-6a75-4f1d-9d38-ae25ef7302ef" />
+<img width="1289" height="348" alt="Screenshot 2026-03-17 at 04 11 07" src="https://github.com/user-attachments/assets/b407c89b-907b-4dff-a3ef-ba2084d41efa" />
 
+<img width="959" height="988" alt="Screenshot 2026-03-17 at 12 41 51" src="https://github.com/user-attachments/assets/48149dc3-cb80-4912-a6ea-3935fdcc6532" />
 
-WRITE
-<img width="1593" height="252" alt="Screenshot 2026-03-12 at 15 45 03" src="https://github.com/user-attachments/assets/ae070a05-bb8b-484e-a216-17eb39e8c2ce" />
+<img width="572" height="184" alt="Screenshot 2026-03-17 at 04 22 29" src="https://github.com/user-attachments/assets/36050a0e-c5a4-438d-94c5-66ca1b274391" />
 
+<img width="1226" height="1005" alt="vector_schematic" src="https://github.com/user-attachments/assets/8f006931-cd5f-4d36-938e-b0100394adf5" />
 
-<img width="501" height="195" alt="Screenshot 2026-03-12 at 15 48 06" src="https://github.com/user-attachments/assets/493b2c27-7be0-43b8-ad95-25fb7722f3f4" />
+<img width="1985" height="1451" alt="Screenshot 2026-03-17 at 12 01 08" src="https://github.com/user-attachments/assets/fbf458fd-878e-4fa7-9374-fde237edc39d" />
 
+<img width="2128" height="91" alt="Screenshot 2026-03-17 at 04 45 12" src="https://github.com/user-attachments/assets/36e9ddd5-4d19-45af-bce2-982c719f614e" />
 
-ABSTRACT
-<img width="2004" height="746" alt="mintchip_DDR4" src="https://github.com/user-attachments/assets/8624543c-8c54-4cd1-a3fd-f665e72cd8c5" />
+<img width="1372" height="892" alt="Screenshot 2026-03-17 at 10 52 35" src="https://github.com/user-attachments/assets/4b642b74-04ad-48c0-bcd7-a39012b546ac" />
 
+<img width="1594" height="742" alt="Screenshot 2026-03-17 at 16 20 52" src="https://github.com/user-attachments/assets/c810945d-f8e5-4331-b758-4b95e1ee8db7" />
 
-TABLE
-<img width="1588" height="872" alt="Screenshot 2026-03-12 at 15 40 49" src="https://github.com/user-attachments/assets/4781b897-1ecb-46c2-a005-df5c06d8126f" />
+<img width="1600" height="814" alt="software-stack-01111" src="https://github.com/user-attachments/assets/0122c8f0-8bf7-489f-89ae-5f11c007a756" />
 
-
-<img width="341" height="526" class="center" alt="Screenshot 2026-03-12 at 15 47 21" src="https://github.com/user-attachments/assets/e3a097dd-6509-4441-9971-efc9a5a67038" />
 
