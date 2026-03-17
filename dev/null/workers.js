@@ -41,7 +41,7 @@ CAVEATS
 If realpath is not NULL, on return it will point to internal static storage space that will be overwritten by subsequent calls.
 June 6, 2025 OpenBSD-current
  -->
-PNG
+0
 
 
 IHDRUü
