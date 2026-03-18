@@ -1,5 +1,10 @@
 # ttyverse by greydoubt (100% original not stolen)
 
+ASIC for TTY Device
+
+<img width="350" height="181" alt="Screenshot 2026-03-17 at 19 21 13" src="https://github.com/user-attachments/assets/e02dc0d6-e3a1-43f1-ae79-c1cabc6ec89f" />
+
+
 <img width="419" height="168" alt="Screenshot 2026-03-17 at 14 14 37" src="https://github.com/user-attachments/assets/018e0968-02cf-4d24-aa5b-42d12728abc8" />
 
 
